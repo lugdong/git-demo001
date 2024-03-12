@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello master-fix!!");
         System.out.println("hello git2hot-fix test!");
         System.out.println("hello git2hot-fix test111111111111111111111111wwwwwwww!");
+        System.out.println("hello git2hot-fix test111111111111111111111111wwwwwwww! GIT 编辑");
     }
 }
